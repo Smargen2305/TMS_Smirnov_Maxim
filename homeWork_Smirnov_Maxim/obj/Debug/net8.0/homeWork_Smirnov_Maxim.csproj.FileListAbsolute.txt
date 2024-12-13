@@ -1,0 +1,14 @@
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\bin\Debug\net8.0\homeWork_Smirnov_Maxim.exe
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\bin\Debug\net8.0\homeWork_Smirnov_Maxim.deps.json
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\bin\Debug\net8.0\homeWork_Smirnov_Maxim.runtimeconfig.json
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\bin\Debug\net8.0\homeWork_Smirnov_Maxim.dll
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\bin\Debug\net8.0\homeWork_Smirnov_Maxim.pdb
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\obj\Debug\net8.0\homeWork_Smirnov_Maxim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\obj\Debug\net8.0\homeWork_Smirnov_Maxim.AssemblyInfoInputs.cache
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\obj\Debug\net8.0\homeWork_Smirnov_Maxim.AssemblyInfo.cs
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\obj\Debug\net8.0\homeWork_Smirnov_Maxim.csproj.CoreCompileInputs.cache
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\obj\Debug\net8.0\homeWork_Smirnov_Maxim.dll
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\obj\Debug\net8.0\refint\homeWork_Smirnov_Maxim.dll
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\obj\Debug\net8.0\homeWork_Smirnov_Maxim.pdb
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\obj\Debug\net8.0\homeWork_Smirnov_Maxim.genruntimeconfig.cache
+C:\Users\89222\source\repos\ConsoleApp2 TMS\homeWork_Smirnov_Maxim\obj\Debug\net8.0\ref\homeWork_Smirnov_Maxim.dll
