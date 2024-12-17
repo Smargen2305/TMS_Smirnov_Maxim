@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             //123456
-            //9999
             Console.WriteLine("Введите Вашу фамилию:");
             var secondName = Console.ReadLine();
 
