@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/TMS_Smirnov_Maxim/v17/DocumentLayout.json
+*.json
+/.vs/TMS_Smirnov_Maxim/v17/.wsuo
+/StringHomeWork/.vs
