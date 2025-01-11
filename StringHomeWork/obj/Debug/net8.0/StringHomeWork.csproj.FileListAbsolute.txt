@@ -1,0 +1,15 @@
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\bin\Debug\net8.0\StringHomeWork.exe
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\bin\Debug\net8.0\StringHomeWork.deps.json
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\bin\Debug\net8.0\StringHomeWork.runtimeconfig.json
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\bin\Debug\net8.0\StringHomeWork.dll
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\bin\Debug\net8.0\StringHomeWork.pdb
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\StringHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\StringHomeWork.AssemblyInfoInputs.cache
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\StringHomeWork.AssemblyInfo.cs
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\StringHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\StringHomeWork.sourcelink.json
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\StringHomeWork.dll
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\refint\StringHomeWork.dll
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\StringHomeWork.pdb
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\StringHomeWork.genruntimeconfig.cache
+C:\Users\89222\source\repos\TMS_Smirnov_Maxim\StringHomeWork\obj\Debug\net8.0\ref\StringHomeWork.dll
